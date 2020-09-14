@@ -1,0 +1,16 @@
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\bin\Debug\netcoreapp3.1\InyeccionDependeciasConsole.exe
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\obj\Debug\netcoreapp3.1\InyeccionDependeciasConsole.csprojAssemblyReference.cache
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\obj\Debug\netcoreapp3.1\InyeccionDependeciasConsole.AssemblyInfoInputs.cache
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\obj\Debug\netcoreapp3.1\InyeccionDependeciasConsole.AssemblyInfo.cs
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\bin\Debug\netcoreapp3.1\InyeccionDependeciasConsole.deps.json
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\bin\Debug\netcoreapp3.1\InyeccionDependeciasConsole.runtimeconfig.json
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\bin\Debug\netcoreapp3.1\InyeccionDependeciasConsole.runtimeconfig.dev.json
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\bin\Debug\netcoreapp3.1\InyeccionDependeciasConsole.dll
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\bin\Debug\netcoreapp3.1\InyeccionDependeciasConsole.pdb
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\obj\Debug\netcoreapp3.1\InyeccionDependeciasConsole.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\obj\Debug\netcoreapp3.1\InyeccionDependeciasConsole.csproj.CopyComplete
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\obj\Debug\netcoreapp3.1\InyeccionDependeciasConsole.dll
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\obj\Debug\netcoreapp3.1\InyeccionDependeciasConsole.pdb
+C:\Users\desarrollo\source\repos\InyeccionDependeciasConsole\InyeccionDependeciasConsole\obj\Debug\netcoreapp3.1\InyeccionDependeciasConsole.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpx47AFcWwW50s2JcwFklzelJJjQcVf8UDv+63r7iUE9p/Xv50Su7V5Vb4TNhO4SxmWV8L2Q5+yxQ9MlLea5Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desarrollo\\source\\repos\\InyeccionDependeciasConsole\\InyeccionDependeciasConsole\\InyeccionDependeciasConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desarrollo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-rc.1.20451.14\\microsoft.extensions.dependencyinjection.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\desarrollo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-rc.1.20451.14\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-rc.1.20451.14.nupkg.sha512"
+  ],
+  "logs": []
+}
